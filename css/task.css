@@ -1,0 +1,113 @@
+.name {
+  color: rgba(0, 0, 0, 0.647);
+  margin-top: 50px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+body {
+  background-color: rgb(255, 255, 255);
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.6em;
+  margin: 0;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+/*
+.p-1 h1 {
+  padding-left: 220px;
+}*/
+
+.p-1 {
+  background-color: black;
+  color: black;
+  font-size: 14px;
+  /*
+  border-top: 5px rgb(54, 29, 29) solid;
+  border-left: 5px rgb(54, 29, 29) solid;
+  border-right: 5px rgb(54, 29, 29) solid;
+  border-bottom: 5px rgb(54, 29, 29) solid;
+*/
+  border-radius: 15px;
+
+  margin-top: 10px;
+  margin-bottom: 20px;
+
+  padding-left: 20px;
+  padding-top: 10px;
+}
+/*
+.p-2 h1 {
+  padding-left: 170px;
+}*/
+.p-2 {
+  background-color: rgb(59, 95, 59);
+  color: black;
+
+  border-top: 5px rgb(67, 30, 30) solid;
+  border-left: 5px rgb(54, 29, 29) solid;
+  border-right: 5px rgb(54, 29, 29) solid;
+  border-bottom: 5px rgb(54, 29, 29) solid;
+
+  border-radius: 15px;
+}
+
+.p-2 li {
+  padding-bottom: 6px;
+  border-bottom: dotted 2px black;
+}
+/*
+.p-3 {
+  background-color: grey;
+
+  border-top: 5px rgb(67, 30, 30) dotted;
+  border-left: 5px rgb(54, 29, 29) dotted;
+  border-right: 5px rgb(54, 29, 29) dotted;
+  border-bottom: 5px rgb(54, 29, 29) dotted;
+
+  border-radius: 15px;
+
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+*/
+.block {
+  color: black;
+  margin-top: 90px;
+  float: left;
+  width: 19%;
+  border: 1px solid rgb(20, 2, 2);
+  padding: 10px;
+  margin-left: 5px;
+  box-sizing: border-box;
+  border-radius: 15px;
+}
+
+.buttons {
+  text-align: center;
+  margin-top: 368px;
+  /* margin-left: 620px;
+  margin-right: 100px;*/
+}
+
+.foto {
+  margin-top: 15px;
+  margin-left: 15px;
+}
+
+.head {
+  color: rgb(23, 20, 20);
+}
+
+.mail {
+  text-align: center;
+}
